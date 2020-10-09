@@ -9,9 +9,6 @@ public class HelloWorld : MonoBehaviour
 
     public Button PlayButton;
 
-    public PanelInstance[] Pages;
-    public PanelInstance currentPanel;
-
     // Start is called before the first frame update
     void Start()
     {
